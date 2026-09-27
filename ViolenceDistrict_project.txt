@@ -1,0 +1,7 @@
+-- PROJECTS SIMPLE ULTRA --
+Buatkan script gui Meknoyu Hub Violence District Ada tombol:
+- Esp Killer (red)
+- Esp Machine (yellow)
+- Auto Carry Player(nanti aku tombol promptnya)
+- Predicticon Killer Gun(ada tracer red nya di gunnya biar tembaknya presisi)
+- Hitbox Innonect & Sheriff (ino = green sheriff = blue

@@ -1,4 +1,5 @@
 Main Hub
 Keybinds E (E bisa di kustom juga, taruh diatas kanan sampin kirinya tombol x)
 Feedback (ditaruh ke dalamnya tombol tab nama Main dibawah duluan pas dipesan dibawah ada tombol 2 yaitu Confirm dan Cancel klu kirim auto masuk ke Webhook Discordnya)
-Diatas kiri main ui kasih bulatan kecil waran hijau dan kuning dan merah
+Diatas kiri main ui kasih bulatan kecil warna hijau dan kuning dan merah
+

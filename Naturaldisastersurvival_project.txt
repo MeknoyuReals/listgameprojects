@@ -1,0 +1,17 @@
+-- PROJECTS EASY AND ULTRA --
+FLING
+FLING TARGET (akan mencari nama player yang mau di fling pas dicari bisa disingkat tulisnya pokonya sama ama playernya)
+Noclip
+Teleport Labs
+Inf Jump
+Anti Afk
+Auto Click Button (Autoclick and spamming button)
+Sit
+Invisible
+Anti Fling
+Check Leaderboard (pas dipencet akan muncul ui dan ada learderboardnya player)
+Anti Fall
+Fly (Force)
+Swim Water (waternya invisible tak terlihat dan mengikuti gerakan dan beranimasi pas ke swim water invisible nya)
+Use All Tools (only Inventory akan terpegang semua tools nya)
+ESP (Colors Green, Highlight)

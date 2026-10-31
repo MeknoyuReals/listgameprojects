@@ -1,6 +1,6 @@
 -- MM2 UPDATES INFO --
 Teleport Murder or Sheriff
-Auto Shoot Murder
-Esp Coins & Trap
-Invisible Fixed
-Anti Void
+Auto Shoot Murder (kasih wallcheck) 
+Esp Coins & Trap (yg trap biasanya ada Beartrap) 
+Invisible Fixed (soalnya masih keliatan tubuhnya) 
+Anti Void (biar tidak jatuh kebawah void) 
